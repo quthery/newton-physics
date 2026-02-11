@@ -1,0 +1,12 @@
+[package]
+name = "newton-gravity"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+async-std = "1.13.2"
+egui = "0.33.3"
+env_logger = "0.11.8"
+kiss3d = { version = "0.40.0", features = ["egui"] }
+nalgebra = "0.34.1"
+rand = "0.9.2"
