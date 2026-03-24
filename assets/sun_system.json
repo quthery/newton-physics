@@ -1,0 +1,83 @@
+[
+  {
+    "mass": 100.0,
+    "velocity_x": 0.0,
+    "velocity_y": 0.0,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "radius": 545.0,
+    "color": { "r": 255, "g": 229, "b": 51, "a": 255 }
+  },
+  {
+    "mass": 0.00001652,
+    "velocity_x": 0.0,
+    "velocity_y": 2.6006,
+    "position_x": 583.7,
+    "position_y": 0.0,
+    "radius": 1.915,
+    "color": { "r": 153, "g": 153, "b": 153, "a": 255 }
+  },
+  {
+    "mass": 0.00024474,
+    "velocity_x": 0.0,
+    "velocity_y": 2.5289,
+    "position_x": 617.3,
+    "position_y": 0.0,
+    "radius": 4.745,
+    "color": { "r": 229, "g": 204, "b": 127, "a": 255 }
+  },
+  {
+    "mass": 0.00030030,
+    "velocity_x": 0.0,
+    "velocity_y": 2.4741,
+    "position_x": 645.0,
+    "position_y": 0.0,
+    "radius": 5.0,
+    "color": { "r": 51, "g": 102, "b": 255, "a": 255 }
+  },
+  {
+    "mass": 0.00003213,
+    "velocity_x": 0.0,
+    "velocity_y": 2.3791,
+    "position_x": 697.4,
+    "position_y": 0.0,
+    "radius": 2.66,
+    "color": { "r": 229, "g": 76, "b": 51, "a": 255 }
+  },
+  {
+    "mass": 0.09543543,
+    "velocity_x": 0.0,
+    "velocity_y": 1.9251,
+    "position_x": 1065.3,
+    "position_y": 0.0,
+    "radius": 56.05,
+    "color": { "r": 229, "g": 153, "b": 76, "a": 255 }
+  },
+  {
+    "mass": 0.02858859,
+    "velocity_x": 0.0,
+    "velocity_y": 1.6231,
+    "position_x": 1498.7,
+    "position_y": 0.0,
+    "radius": 47.25,
+    "color": { "r": 229, "g": 204, "b": 153, "a": 255 }
+  },
+  {
+    "mass": 0.00435435,
+    "velocity_x": 0.0,
+    "velocity_y": 1.2658,
+    "position_x": 2464.1,
+    "position_y": 0.0,
+    "radius": 20.05,
+    "color": { "r": 102, "g": 204, "b": 229, "a": 255 }
+  },
+  {
+    "mass": 0.00513514,
+    "velocity_x": 0.0,
+    "velocity_y": 1.0543,
+    "position_x": 3551.9,
+    "position_y": 0.0,
+    "radius": 19.4,
+    "color": { "r": 51, "g": 76, "b": 229, "a": 255 }
+  }
+]
